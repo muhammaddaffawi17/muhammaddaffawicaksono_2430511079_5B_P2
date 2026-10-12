@@ -17,4 +17,4 @@ fitur yang di selesaikan:
 - membuat variasi border atau tampilan kartu berdasarkan mood. 
 
 Screenshoot Aplikasi:
-c:\Users\Momim\Downloads\ssan.jpeg
+<img width="575" height="1280" alt="ssan" src="https://github.com/user-attachments/assets/1cced175-9e4e-46a1-ad06-f7ed5a916675" />
